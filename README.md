@@ -2,6 +2,32 @@
 
 Une application mobile de suivi d'habitudes conçue pour les jeunes entrepreneurs (18-35 ans) qui ne plaisantent pas avec leurs objectifs.
 
+## ⚡ Test Rapide (Demo)
+
+### **Option 1: Cloner et tester (5 min)**
+```bash
+git clone https://github.com/maxenceprocombalot-web/streakly.git
+cd streakly
+npm install
+npm start
+```
+Scannez le QR code avec **Expo Go** sur votre téléphone.
+
+### **Option 2: Voir le code directement**
+Explorez le code source sur GitHub:
+- **Écrans:** `/src/components/screens/` (Today, Create, Manage, Stats, Widget)
+- **Design System:** `/src/design/` (colors, spacing, text, animations)
+- **Logique métier:** `/src/services/` et `/src/store/`
+
+### **Option 3: Tester sur simulateur**
+```bash
+git clone https://github.com/maxenceprocombalot-web/streakly.git
+cd streakly
+npm install
+npm start
+# Appuyez sur 'i' pour iOS ou 'a' pour Android
+```
+
 ## 🚀 Caractéristiques
 
 - **Aujourd'hui (Home)** - Aperçu du jour avec anneau de progression, liste des habitudes et validation rapide
